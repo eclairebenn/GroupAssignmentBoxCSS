@@ -1,0 +1,59 @@
+.container {
+    width: 465px;
+    background-color: gray;
+    border: 5px black solid;
+    
+}
+.red_box {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border: 5px black solid;
+    margin: 10px;
+
+}
+
+.blue_box{
+    width: 435px;
+    height: 100px;
+    border: 5px black solid;
+    margin: 10px;
+    background-color: blue;
+
+}
+
+.yellow_box{
+    display: inline-block;
+    margin: 10px;
+    width: 122px;
+    height: 100px;
+    background-color: yellow;
+    border: 5px black solid;
+
+}
+
+.green_box{
+    margin: 10px;
+    width: 435px;
+    height: 150px;
+    background-color: green;
+    border: 5px black solid;
+
+}
+
+.purple_box{
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border: 5px black solid;
+    display: inline-block;
+
+
+}
+
+.purple_box_2{
+    float: right;
+    
+}
